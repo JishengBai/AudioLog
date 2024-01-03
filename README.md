@@ -1,1 +1,1 @@
-# AudioLog: LLMs-Powered Long Audio Logging with Acoustic Scenes and Events Joint Estimation
+# AudioLog: LLMs-Powered Long Audio Logging with Hybrid Token-Semantic Contrastive Learning
