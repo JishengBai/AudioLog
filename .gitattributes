@@ -1,1 +1,2 @@
 CL-HTSAT/2016-17TUT/htsat_pretrain.pth filter=lfs diff=lfs merge=lfs -text
+CL-HTSAT/2023T4/htsat_pretrain.pth filter=lfs diff=lfs merge=lfs -text
